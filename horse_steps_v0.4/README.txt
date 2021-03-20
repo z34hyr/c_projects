@@ -13,7 +13,7 @@ chessboard so knight visits every square only once.
 This is version 0.4 (so it is the final version).
 This version uses Warnsdorff's rule. Shortly - choose next step so 
 that for this square number of possible squares to further 
-move is lowest.
+moves is lowest.
 This rule works almost perfect, also for big boards 
 (for 30x30 board calculation took about 7 seconds).
 For board 15x15 result returns after less then 1 (one) second.
